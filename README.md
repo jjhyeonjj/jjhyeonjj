@@ -2,13 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JinHyeon&fontSize=90" />
 </div>
 <div align="center">
-Developers looking to the future rather than the present
+Never give up! We can do! 
   
 Hi there 👋
 
 포기하지 않고 발전해나가는 개발자 정진현입니다."
 
-Let's not be conceited! 
+Let's be a developing developer! 
  
 코딩은 혼자하는게 아닙니다.
 협업을 위해 배려하며, 성장하기 위해 노력합니다.
@@ -35,7 +35,6 @@ Let's not be conceited!
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
