@@ -6,7 +6,7 @@ Developers looking to the future rather than the present
   
 Hi there 👋
 
-미래를 보는 개발자 정진현입니다."
+포기하지 않고 발전해나가는 개발자 정진현입니다."
 
 Let's not be conceited! 
  
