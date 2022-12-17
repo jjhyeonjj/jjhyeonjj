@@ -10,7 +10,7 @@ Hi there 👋
 
 Let's be a developing developer! 
  
-코딩은 혼자하는게 아닙니다.
+코딩은 책임감이 있어야합니다.
 협업을 위해 배려하며, 성장하기 위해 노력합니다.
 
 서로에게 도움이 되는 개발자 되어가요‼
@@ -19,7 +19,7 @@ Let's be a developing developer!
 <div align="center">
 ❤️ I love...
   
-📸사진🏂스노우보드  
+  
 </div>
 <hr> 
 <br> 
