@@ -2,18 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JinHyeon&fontSize=90" />
 </div>
 <div align="center">
-Never give up! We can do! 
   
 Hi there 👋
 
 포기하지 않고 발전해나가는 개발자 정진현입니다."
 
-Let's be a developing developer! 
+Never give up! We can do! 
+  
+Endurance is the crowning quality, And patience all the passion of great hearts.
  
-코딩은 책임감이 있어야합니다.
-협업을 위해 배려하며, 성장하기 위해 노력합니다.
+코딩은 책임감이 있어야 합니다. 끈기를 가지고, 발전해 나가야 합니다.
 
-서로에게 도움이 되는 개발자 되어가요‼
+책임감있게 임수를 완수하는 개발자가 되겠습니다‼
 </div> 
 <hr> 
 <div align="center">
@@ -30,11 +30,10 @@ Let's be a developing developer!
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">  
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
@@ -48,7 +47,7 @@ Let's be a developing developer!
 
   </div>
 <!--
-**coocoo08/coocoo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jjhyeonjj/jjhyeonjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
