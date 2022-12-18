@@ -9,6 +9,7 @@ Never give up! We can do!
 Endurance is the crowning quality, And patience all the passion of great hearts.
  
 코딩은 책임감이 있어야 합니다. 끈기를 가지고, 발전해 나가야 합니다.
+  
 책임감있게 임수를 완수하는 개발자가 되겠습니다‼
 </div> 
 <hr> 
