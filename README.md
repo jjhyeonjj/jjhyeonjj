@@ -1,5 +1,5 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JinHyeon&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=blue&height=300&section=header&text=JinHyeon&fontSize=90" />
 </div>
 <div align="center"> 
 포기하지 않고 발전해나가는 개발자 정진현입니다."
