@@ -41,7 +41,7 @@ Endurance is the crowning quality, And patience all the passion of great hearts.
 <div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjhyeonjj&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhyeonjj&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhyeonjj&layout=compact&theme=dracula)](https://github.com/jjhyeonjj)
 
   </div>
 <!--
