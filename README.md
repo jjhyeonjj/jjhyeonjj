@@ -14,7 +14,8 @@ Endurance is the crowning quality, And patience all the passion of great hearts.
 </div> 
 <hr> 
 <div align="center">
-❤️ I love...
+
+  
   
   
 </div>
