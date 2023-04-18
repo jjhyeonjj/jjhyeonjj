@@ -35,6 +35,7 @@ Endurance is the crowning quality, And patience all the passion of great hearts.
 <img src="https://img.shields.io/badge/Python-0067a3?style=flat-square&logo=python&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
