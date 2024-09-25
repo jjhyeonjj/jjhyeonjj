@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JinHyeon&fontSize=90" />
 </div>
 <div align="center"> 
-  
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/jjhyeonjj?pet-id=626688151109849498&contribution-view=false"
@@ -10,6 +10,7 @@
     height="120"
   />
 </a>
+  
   
 </div> 
 <hr> 
