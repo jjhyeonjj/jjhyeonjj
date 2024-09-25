@@ -2,15 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JinHyeon&fontSize=90" />
 </div>
 <div align="center"> 
-포기하지 않고 발전해나가는 개발자 정진현입니다.
-
-Never give up! We can do! 
-  
-Endurance is the crowning quality, And patience all the passion of great hearts.
- 
-코딩은 책임감이 있어야 합니다. 끈기를 가지고, 발전해 나가야 합니다.
-  
-책임감있게 임수를 완수하는 개발자가 되겠습니다‼
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
 </div> 
 <hr> 
 <div align="center">
